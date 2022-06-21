@@ -5,8 +5,8 @@ import axios from "axios";
 // const BACKEND_URL = "fffdf48ffbd6542322b334842b18afda3ee52cf7";
 const buttons = [
     {
-        type: "completed",
-        label: "completed",
+        type: "Completed",
+        label: "Completed",
     },
 
 ];
